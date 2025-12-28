@@ -20,8 +20,8 @@ Domain: foamrollerpro.webcytz.com
 <!-- Each task should be specific and actionable -->
 
 ### Content Pages
-- [ ] Create recovery-guide.html (foam rolling techniques, muscle groups, recovery protocols)
-- [ ] Create buying-guide.html (density selection, size recommendations, durability factors)
+- [x] Create recovery-guide.html (foam rolling techniques, muscle groups, recovery protocols)
+- [x] Create buying-guide.html (density selection, size recommendations, durability factors)
 - [ ] Create about.html (site purpose, methodology, affiliate disclosure)
 
 ### Product Enhancement
