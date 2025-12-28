@@ -54,3 +54,4 @@ Complete production-ready foam roller comparison site with:
 - Mobile-responsive layout
 - Amazon affiliate integration
 - SEO optimization
+- [ ] Fix: Site not deployed at webcytz.com (got HTTP 000000)
